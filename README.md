@@ -2,6 +2,7 @@
 # 日期选择器
 
 ## 未完成 实现了Dialog弹窗
+![](https://github.com/Golabe/PickDateView/blob/master/images/image1.png?raw=true)
 
 # 使用
 
