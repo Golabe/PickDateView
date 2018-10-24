@@ -4,7 +4,8 @@
 
 
 #使用
->  DatePickerPop datePickerPop = new DatePickerPop.Builder(this)
+```java
+ DatePickerPop datePickerPop = new DatePickerPop.Builder(this)
                 .btnTextSize(12)
                 .cancel("取消")
                 .confirm("确定")
@@ -22,5 +23,5 @@
                     }
                 })
                 .build();
-                
-                
+
+```
