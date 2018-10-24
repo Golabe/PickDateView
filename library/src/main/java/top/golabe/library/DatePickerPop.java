@@ -137,7 +137,7 @@ public class DatePickerPop {
             return this;
         }
 
-        public Builder cancleColor(@ColorInt int color) {
+        public Builder cancelColor(@ColorInt int color) {
             this.cancelColor = color;
             return this;
         }
