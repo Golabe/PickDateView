@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="?attr/selectableItemBackgroundBorderless"-->
+    <!--android:paddingLeft="10dp"-->
+    <!--android:paddingTop="2dp"-->
+    <!--android:paddingRight="10dp"-->
+    <!--android:paddingBottom="2dp"-->
+    <style name="TextTheme" parent="AlertDialog.AppCompat">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingBottom">2dp</item>
+
+    </style>
+</resources>
