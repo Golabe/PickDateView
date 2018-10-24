@@ -1,9 +1,10 @@
 # PickDateView
-#日期选择器
-##未完成 实现了Dialog弹窗
+# 日期选择器
+## 未完成 实现了Dialog弹窗
+
+# 使用
 
 
-#使用
 ```java
  DatePickerPop datePickerPop = new DatePickerPop.Builder(this)
                 .btnTextSize(12)
